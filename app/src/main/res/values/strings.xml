@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConversorMonedas</string>
+    <string-array name="currency_array">
+        <item>PEN</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
